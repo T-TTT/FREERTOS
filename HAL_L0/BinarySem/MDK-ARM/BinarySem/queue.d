@@ -1,0 +1,15 @@
+binarysem\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+binarysem\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+binarysem\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+binarysem\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+binarysem\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+binarysem\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+binarysem\queue.o: ../Inc/FreeRTOSConfig.h
+binarysem\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+binarysem\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+binarysem\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+binarysem\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/portmacro.h
+binarysem\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+binarysem\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+binarysem\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+binarysem\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
