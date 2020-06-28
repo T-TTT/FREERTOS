@@ -1,0 +1,12 @@
+timer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/port.c
+timer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+timer\port.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+timer\port.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+timer\port.o: ../Inc/FreeRTOSConfig.h
+timer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+timer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+timer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+timer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/portmacro.h
+timer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+timer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+timer\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

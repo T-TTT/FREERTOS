@@ -1,0 +1,12 @@
+binarysem\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+binarysem\list.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+binarysem\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+binarysem\list.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+binarysem\list.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+binarysem\list.o: ../Inc/FreeRTOSConfig.h
+binarysem\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+binarysem\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+binarysem\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+binarysem\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/portmacro.h
+binarysem\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+binarysem\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

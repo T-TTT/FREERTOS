@@ -1,0 +1,12 @@
+messagequeue\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/port.c
+messagequeue\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+messagequeue\port.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+messagequeue\port.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+messagequeue\port.o: ../Inc/FreeRTOSConfig.h
+messagequeue\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+messagequeue\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+messagequeue\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+messagequeue\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/portmacro.h
+messagequeue\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+messagequeue\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+messagequeue\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
